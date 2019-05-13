@@ -4,7 +4,7 @@
 
 # Site
 title: 劉夏陽
-subtitle: 呀哈喽，小窝被发现了。
+subtitle: 哟哈喽，小窝被发现了。
 author: 刘夏阳
 language:
 timezone:
@@ -89,16 +89,16 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 ## Friends
 friends: [
     {
-        title: "CSDN Blog 胡伟煌",
-        href: "http://blog.csdn.net/huwh_"
+        title: "相亲角，请给我",
+        href: ""
     },
     {
-        title: "DockOne 胡伟煌",
-        href: "http://dockone.io/people/胡伟煌"
+        title: "你的信息，发布于此",
+        href: ""
     },
     {
-        title: "阿里云栖社区 胡伟煌",
-        href: "https://yq.aliyun.com/u/huweihuang"
+        title: "包年5块，会涨价哦",
+        href: ""
     }
 ]
 
