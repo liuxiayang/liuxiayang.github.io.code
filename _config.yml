@@ -64,8 +64,8 @@ ga_domain: yoursite
 
 # Sidebar settings
 sidebar: true                       # whether or not using Sidebar.
-sidebar-about-description: "世界与我们，变变变变变更好。"
-sidebar-avatar: /img/avatar/ironman.png      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "世界与我变变变变变更好。"
+sidebar-avatar: /img/avatar/Hikigaya.Hachiman.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 widgets:
 - featured-tags
 - short-about
@@ -89,17 +89,21 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 ## Friends
 friends: [
     {
-        title: "相亲角，请给我",
-        href: ""
+      title: "有不少，广告位。",
+      href: ""
     },
     {
-        title: "你的信息，发布于此",
-        href: ""
+      title: "两块包月，过时不候。",
+      href: ""
     },
     {
-        title: "包年5块，会涨价哦",
-        href: ""
-    }
+      title: "现在是，赞助时间。",
+      href: ""
+    },
+    {
+      title: "以后火了，可别后悔。",
+      href: ""
+    },
 ]
 
 
@@ -226,3 +230,10 @@ deploy:
   type: git
   repository: https://github.com/liuxiayang/liuxiayang.github.io
   branch: master
+
+# Livere评论系统
+Livere:
+livere_uid:  MTAyMC80NDI2Mi8yMDc5NQ==
+
+# visitors count
+counter: true
