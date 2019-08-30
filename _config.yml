@@ -4,7 +4,7 @@
 
 # Site
 title: 劉夏陽
-subtitle: 哟哈喽，小窝被发现了。
+subtitle: YaHellow，小窝被发现了。
 author: 刘夏阳
 language:
 timezone:
@@ -231,9 +231,27 @@ deploy:
   repository: https://github.com/liuxiayang/liuxiayang.github.io
   branch: master
 
-# Livere评论系统
+# Livere comment
 Livere:
 livere_uid:  MTAyMC80NDI2Mi8yMDc5NQ==
+
+#live2d
+live2d:
+  enable: true
+  scriptFrom: local
+  pluginRootPath: live2dw/
+  pluginJsPath: lib/
+  pluginModelPath: assets/
+  tagMode: false
+  debug: false
+  model:
+    use: live2d-widget-model-tororo
+  display:
+    position: left
+    width: 150
+    height: 300
+  mobile:
+    show: true
 
 # visitors count
 counter: true
