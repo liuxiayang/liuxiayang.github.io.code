@@ -1,8 +1,8 @@
 ---
 layout: "testdiy"
-title: "测试路由"
+title: "Others"
 description: "Hey, this is testdiy."
-header-img: "/img/header_img/tag.png"
+header-img: https://github.com/liuxiayang/pic/blob/master/wallpaper/risingMoon.jpg?raw=true
 ---
 
 ### 一句话

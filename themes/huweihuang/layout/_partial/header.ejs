@@ -3,21 +3,23 @@
 <style type="text/css">
     header.intro-header{
         <% if (is_home()) { %>
-            background-image: url('<%= config["header-img"] %>') 
+            background-image: url(https://github.com/liuxiayang/pic/blob/master/wallpaper/firework-mirror.jpg?raw=true)
             /*config*/
         <%} else if (is_post()){%>
-            background-image: url('<%= page["header-img"] || config["article-img"]  %>')
+            background-image: url('<%= page["header-img"] || Math.random() > 0.5 ? 'https://github.com/liuxiayang/pic/blob/master/wallpaper/dusk-flower.jpg?raw=true' : 'https://github.com/liuxiayang/pic/blob/master/wallpaper/beach.jpg?raw=true' %>')
             /*post*/
         <%} else {%>
             background-image: url('<%= page["header-img"] || config["archives-img"] %>')
             /*page*/
         <%} %>
     }
-    <% if (config.signature) {%>
+    /*<!--<% if (config.signature) {%>
+    config["article-img"]
+    config["archives-img"]
     #signature{
         background-image: url('<%= config.root + config["signature-img"] %>');
     }
-    <%}%>
+    <%}%>-->*/
 </style>
 
 <header class="intro-header" >
@@ -47,8 +49,6 @@
                         <span class="subheading"><%= page.description || config.subtitle || "" %></span>
                     </div>
                 <% } %>
-
-
                 </div>
             </div>
         </div>

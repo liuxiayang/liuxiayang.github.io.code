@@ -31,7 +31,6 @@ layout: layout
                 </section>
                 <% }%>
 
-
                 <!-- Friends Blog -->
                 <% if(config.friends) { %>
                 <hr>
@@ -61,7 +60,7 @@ layout: layout
                 <br>
 
                 <!-- require APlayer -->
-                <% if(page.aplayer) { %>
+                <!--<% if(page.aplayer) { %>
                     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1.10/dist/APlayer.min.css">
                     <script src="https://cdn.jsdelivr.net/npm/aplayer@1.10/dist/APlayer.min.js"></script>
                     <script src="https://cdn.jsdelivr.net/npm/meting@1.2/dist/Meting.min.js"></script>
@@ -72,14 +71,14 @@ layout: layout
                         data-type="<%= config['data-type'] %>"
                         data-fixed="<%= page.fixed %>" >
                     </div>
-                <% } %>
+                <% } %>-->
 
                 <!-- 如果开启评论功能 -->
                 <% if(page.comments) { %>
                     <hr>
 
-                    <% if(config['duoshuo_username']) { %>
-                    <!-- 多说评论框 start -->
+                    <!--<% if(config['duoshuo_username']) { %>
+                    &lt;!&ndash; 多说评论框 start &ndash;&gt;
                     <div class="comment">
                         <div class="ds-thread"
                             data-thread-key="<%= page.path %>"
@@ -87,16 +86,16 @@ layout: layout
                             data-url="<%= page.permalink %>" >
                         </div>
                     </div>
-                    <!-- 多说评论框 end -->
-                    <% } %>
+                    &lt;!&ndash; 多说评论框 end &ndash;&gt;
+                    <% } %>-->
 
-                    <% if(config['disqus_username']) { %>
-                    <!-- disqus 评论框 start -->
+                    <!--<% if(config['disqus_username']) { %>
+                    &lt;!&ndash; disqus 评论框 start &ndash;&gt;
                     <div class="comment">
                         <div id="disqus_thread" class="disqus-thread"></div>
                     </div>
-                    <!-- disqus 评论框 end -->
-                    <% } %>
+                    &lt;!&ndash; disqus 评论框 end &ndash;&gt;
+                    <% } %>-->
 
                     <% if(config['livere_uid']) { %>
                         <!-- disqus 评论框 start -->
@@ -106,8 +105,8 @@ layout: layout
                         <!-- disqus 评论框 end -->
                     <% } %>
 
-                    <% if(config['duoshuo_username']) { %>
-                    <!-- 多说公共JS代码 start (一个网页只需插入一次) -->
+                    <!--<% if(config['duoshuo_username']) { %>
+                    // 多说公共JS代码 start (一个网页只需插入一次)
                     <script type="text/javascript">
                         // dynamic User by Hux
                         var _user = '<%= config['duoshuo_username'] %>';
@@ -123,11 +122,11 @@ layout: layout
                              || document.getElementsByTagName('body')[0]).appendChild(ds);
                         })();
                     </script>
-                    <!-- 多说公共JS代码 end -->
-                    <% } %>
+                    &lt;!&ndash; 多说公共JS代码 end &ndash;&gt;
+                    <% } %>-->
 
-                    <% if(config['disqus_username']) { %>
-                    <!-- disqus 公共JS代码 start (一个网页只需插入一次) -->
+                    <!--<% if(config['disqus_username']) { %>
+                    &lt;!&ndash; disqus 公共JS代码 start (一个网页只需插入一次) &ndash;&gt;
                     <script type="text/javascript">
                         /* * * CONFIGURATION VARIABLES * * */
                         var disqus_shortname = "<%= config['disqus_username'] %>";
@@ -142,11 +141,11 @@ layout: layout
 
                         
                     </script>
-                    <!-- disqus 公共JS代码 end -->
-                    <% } %>
+                    &lt;!&ndash; disqus 公共JS代码 end &ndash;&gt;
+                    <% } %>-->
 
-                    <% if(config['livere_uid']) { %>
-                    <!-- 来必力City版公共JS代码 start (一个网页只需插入一次) -->
+                    <!--<% if(config['livere_uid']) { %>
+                    &lt;!&ndash; 来必力City版公共JS代码 start (一个网页只需插入一次) &ndash;&gt;
                     <script type="text/javascript">
                        (function(d, s) {
                            var j, e = d.getElementsByTagName(s)[0];
@@ -161,8 +160,8 @@ layout: layout
                        })(document, 'script');
                     </script>
                     <noscript>为正常使用来必力评论功能请激活JavaScript</noscript>
-                    <!-- 来必力City版 公共JS代码 end -->
-                    <% } %>
+                    &lt;!&ndash; 来必力City版 公共JS代码 end &ndash;&gt;
+                    <% } %>-->
 
                 <% } %>
             </div>

@@ -1,11 +1,8 @@
 ---
 layout: page
 ---
-<!-- Main Content -->
-
 <% page.posts.each(function(post){ %>
-<div class="post-preview">
-
+    <div class="post-preview">
     <a href="<%- config.root %><%- post.path %>">
         <h2 class="post-title">
             <%- post.title || "Untitled" %>
@@ -20,7 +17,8 @@ layout: page
     <% if (config.home_posts_tag){%>
         <p class="post-meta" style="margin: 10px 0;">
             Posted by <%- post.author || config.author %> last updated on
-            <%= post.date.format(config.date_format) %>
+            <%= post.updated.format(config.date_format) %>, created on
+            <%= post.date.format(config.date_format) %>.
         </p>
         <div class="tags">
             <% post.tags.forEach(function(tag){ %>
@@ -37,7 +35,6 @@ layout: page
 </div>
 <hr>
 <% }); %>
-
 
 <!-- Pager -->
 

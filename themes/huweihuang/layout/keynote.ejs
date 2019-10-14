@@ -60,8 +60,8 @@ layout: layout
 
                 <hr>
 
-                <% if(config['duoshuo_share'] && config['duoshuo_username']) { %>
-                <!-- 多说 Share start -->
+                <!--<% if(config['duoshuo_share'] && config['duoshuo_username']) { %>
+                &lt;!&ndash; 多说 Share start &ndash;&gt;
                 </style>
                 <div class="ds-share"
                     style="text-align: right"
@@ -82,8 +82,8 @@ layout: layout
                     </div>
                 <hr>
                 </div>
-                <!-- 多说 Share end-->
-                <% } %>
+                &lt;!&ndash; 多说 Share end&ndash;&gt;
+                <% } %>-->
 
                 <ul class="pager">
                     <% if (page.prev){ %>
@@ -98,8 +98,8 @@ layout: layout
                     <% } %>
                 </ul>
 
-                <% if(config['duoshuo_username']) { %>
-                <!-- 多说评论框 start -->
+                <!--<% if(config['duoshuo_username']) { %>
+                &lt;!&ndash; 多说评论框 start &ndash;&gt;
                 <div class="comment">
                     <div class="ds-thread"
                         data-thread-key="<%= page.path %>"
@@ -107,16 +107,16 @@ layout: layout
                         data-url="<%= page.permalink %>" >
                     </div>
                 </div>
-                <!-- 多说评论框 end -->
-                <% } %>
+                &lt;!&ndash; 多说评论框 end &ndash;&gt;
+                <% } %>-->
 
-                <% if(config['disqus_username']) { %>
-                <!-- disqus 评论框 start -->
+                <!--<% if(config['disqus_username']) { %>
+                &lt;!&ndash; disqus 评论框 start &ndash;&gt;
                 <div class="comment">
                     <div id="disqus_thread" class="disqus-thread"></div>
                 </div>
-                <!-- disqus 评论框 end -->
-                <% } %>
+                &lt;!&ndash; disqus 评论框 end &ndash;&gt;
+                <% } %>-->
 
             </div>
 
@@ -155,8 +155,8 @@ layout: layout
     </div>
 </article>
 
-<% if(config['duoshuo_username']) { %>
-<!-- 多说公共JS代码 start (一个网页只需插入一次) -->
+<!--<% if(config['duoshuo_username']) { %>
+&lt;!&ndash; 多说公共JS代码 start (一个网页只需插入一次) &ndash;&gt;
 <script type="text/javascript">
     // dynamic User by Hux
     var _user = '<%= config['duoshuo_username'] %>';
@@ -172,11 +172,11 @@ layout: layout
          || document.getElementsByTagName('body')[0]).appendChild(ds);
     })();
 </script>
-<!-- 多说公共JS代码 end -->
-<% } %>
+&lt;!&ndash; 多说公共JS代码 end &ndash;&gt;
+<% } %>-->
 
-<% if(config['disqus_username']) { %>
-<!-- disqus 公共JS代码 start (一个网页只需插入一次) -->
+<!--<% if(config['disqus_username']) { %>
+&lt;!&ndash; disqus 公共JS代码 start (一个网页只需插入一次) &ndash;&gt;
 <script type="text/javascript">
     /* * * CONFIGURATION VARIABLES * * */
     var disqus_shortname = "<%= config['disqus_username'] %>";
@@ -189,8 +189,8 @@ layout: layout
         (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
     })();
 </script>
-<!-- disqus 公共JS代码 end -->
-<% } %>
+&lt;!&ndash; disqus 公共JS代码 end &ndash;&gt;
+<% } %>-->
 
 
 <% if(config['anchorjs']) { %>
