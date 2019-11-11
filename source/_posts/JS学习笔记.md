@@ -5,6 +5,7 @@ date: 2019-06-10 14:47:51
 subtitle:
 header-img:
 tags:
+- Skill
 ---
 
 ### Reduce

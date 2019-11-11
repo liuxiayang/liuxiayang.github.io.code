@@ -1,5 +1,5 @@
 ---
-title: 读《深入React技术栈》
+title: 《深入React技术栈》
 catalog: true
 date: 2019-05-13 10:36:24
 subtitle:
@@ -8,6 +8,11 @@ tags:
 - Skill
 - Notes
 ---
+
+React.addons.classSet;
+
+Render Props VS HOC
+HOC是一种粗粒度的代码复用，而Render Props是一种细粒度的复用
 
 CSS3、React底层原理、3D特效、设计模式等好多要补啊orz，块的学习从哪里开始呢？
 这书是一个开始。
