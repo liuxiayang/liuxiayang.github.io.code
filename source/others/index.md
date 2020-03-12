@@ -1,7 +1,7 @@
 ---
-layout: "testdiy"
+layout: "others"
 title: "Others"
-description: "Hey, this is testdiy."
+description: "Hey, this is temporary test page."
 header-img: https://github.com/liuxiayang/pic/blob/master/wallpaper/risingMoon.jpg?raw=true
 ---
 

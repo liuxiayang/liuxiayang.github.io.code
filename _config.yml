@@ -135,7 +135,7 @@ highlight:
   tab_replace:
 
 # Category & Tag
-default_category: article
+default_category: in-article
 category_map:
   Docker: docker
   Kubernetes: kubernetes
