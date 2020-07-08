@@ -254,3 +254,6 @@ live2d:
 
 # visitors count
 counter: true
+
+baidusitemap:
+  path: baidusitemap.xml

@@ -2,6 +2,7 @@
 title: React Hooks 全局状态管理
 catalog: true
 date: 2020-03-12 16:47:51
+top: 3
 subtitle:
 header-img:
 tags:
@@ -42,7 +43,7 @@ useReducer 改变状态
 思路就是这么简单，理解了这两个 Hooks Api 后，多写几遍就熟悉了。
 
 ===
-留着贴代码。
+代码
 ===
 
 
