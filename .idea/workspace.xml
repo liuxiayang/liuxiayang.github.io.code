@@ -2,21 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea824d5c-366a-4c67-986d-8faaac738612" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/source/_posts/前端笔记.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/React-Hooks-全局状态管理.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/React-Hooks-全局状态管理.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/《深入React技术栈》.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/一些句子.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/一些句子.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/_posts/书单.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/书单.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/仿国外老哥粒子特效.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/仿国外老哥粒子特效.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/前端自检清单.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/动漫.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/动漫.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/前端笔记.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/前端笔记.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/_posts/后端学习笔记.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/后端学习笔记.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/有趣的Web-3D.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/有趣的Web-3D.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/huweihuang/layout/_partial/head.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/huweihuang/layout/_partial/head.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/跨时代游戏策划.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/跨时代游戏策划.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -104,19 +94,20 @@
     <session id="1168731909">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="27" />
+          <entry key="project.closed" value="28" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="10" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.19" value="2" />
-          <entry key="project.open.time.2" value="6" />
+          <entry key="project.open.time.2" value="7" />
           <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.23" value="1" />
-          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.3" value="3" />
+          <entry key="project.open.time.39" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="27" />
+          <entry key="project.opened" value="30" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -125,7 +116,7 @@
           <entry key="html" value="18" />
           <entry key="js" value="83" />
           <entry key="json" value="3" />
-          <entry key="md" value="17384" />
+          <entry key="md" value="18649" />
           <entry key="yml" value="376" />
         </counts>
       </usages-collector>
@@ -135,12 +126,13 @@
           <entry key="HTML" value="18" />
           <entry key="JSON" value="3" />
           <entry key="JavaScript" value="83" />
-          <entry key="PLAIN_TEXT" value="17384" />
+          <entry key="PLAIN_TEXT" value="18649" />
           <entry key="YAML" value="376" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="111" value="1" />
           <entry key="CNAME" value="1" />
           <entry key="LICENSE" value="5" />
           <entry key="css" value="1" />
@@ -151,7 +143,7 @@
           <entry key="jpg" value="25" />
           <entry key="js" value="27" />
           <entry key="json" value="24" />
-          <entry key="md" value="215" />
+          <entry key="md" value="219" />
           <entry key="mtn" value="9" />
           <entry key="png" value="45" />
           <entry key="ts" value="1" />
@@ -167,7 +159,7 @@
           <entry key="Image" value="71" />
           <entry key="JSON" value="24" />
           <entry key="JavaScript" value="27" />
-          <entry key="PLAIN_TEXT" value="234" />
+          <entry key="PLAIN_TEXT" value="239" />
           <entry key="TypeScript" value="1" />
           <entry key="YAML" value="29" />
         </counts>
@@ -176,36 +168,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/source/_posts/前端笔记.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="100" column="18" selection-start-line="100" selection-start-column="17" selection-end-line="100" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_config.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="241">
-              <caret line="209" column="20" lean-forward="true" selection-start-line="209" selection-start-column="20" selection-end-line="209" selection-end-column="20" />
+            <state relative-caret-position="3401">
+              <caret line="278" column="13" selection-start-line="278" selection-start-column="13" selection-end-line="278" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_posts/JS学习笔记.md">
+        <entry file="file://$PROJECT_DIR$/source/_posts/书单.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-480" />
+            <state relative-caret-position="314">
+              <caret line="61" column="4" lean-forward="true" selection-start-line="61" selection-start-column="4" selection-end-line="61" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_posts/有趣的知识来者不拒.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+            </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/_posts/后端学习笔记.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
+            <state relative-caret-position="435">
+              <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -213,8 +207,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/_posts/React-Hooks-全局状态管理.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+            <state relative-caret-position="615">
+              <caret line="41" column="11" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -249,7 +243,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/huweihuang/source/js/hux-blog.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="451">
+            <state relative-caret-position="600">
               <caret line="44" column="27" selection-start-line="44" selection-start-column="24" selection-end-line="44" selection-end-column="27" />
             </state>
           </provider>
@@ -268,10 +262,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>aplayer</find>
-      <find>anchorjs</find>
-      <find>Livere</find>
-      <find>featured</find>
       <find>isPageHelper</find>
       <find>firework-mirror</find>
       <find>favicon.ico</find>
@@ -298,6 +288,10 @@
       <find>https</find>
       <find>top</find>
       <find>大</find>
+      <find>webstorm</find>
+      <find>bfc</find>
+      <find>闭包</find>
+      <find>tree-shaking</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -317,7 +311,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/node_modules/hexo-helper-live2d/index.js" />
         <option value="$PROJECT_DIR$/themes/huweihuang/source/js/hux-blog.js" />
         <option value="$PROJECT_DIR$/public/yourdiy/index.html" />
         <option value="$PROJECT_DIR$/themes/huweihuang/source/js/hux-blog.min.js" />
@@ -348,14 +341,12 @@
         <option value="$PROJECT_DIR$/source/yourdiy/index.md" />
         <option value="$PROJECT_DIR$/source/others/index.md" />
         <option value="$PROJECT_DIR$/themes/huweihuang/layout/index.ejs" />
-        <option value="$PROJECT_DIR$/source/_posts/跨时代游戏策划.md" />
         <option value="$PROJECT_DIR$/themes/huweihuang/layout/page.ejs" />
         <option value="$PROJECT_DIR$/public/404.html" />
         <option value="$PROJECT_DIR$/source/_posts/文化人.md" />
         <option value="$PROJECT_DIR$/themes/huweihuang/_config.yml" />
         <option value="$PROJECT_DIR$/source/_posts/收藏hahaha.md" />
         <option value="$PROJECT_DIR$/source/_posts/React-Hooks-实现全局状态管理.md" />
-        <option value="$PROJECT_DIR$/source/_posts/后端学习笔记.md" />
         <option value="$PROJECT_DIR$/node_modules/hexo-generator-index/lib/generator.js" />
         <option value="$PROJECT_DIR$/themes/huweihuang/layout/_partial/head.ejs" />
         <option value="$PROJECT_DIR$/_config.yml" />
@@ -363,10 +354,13 @@
         <option value="$PROJECT_DIR$/source/_posts/有趣的Web-3D.md" />
         <option value="$PROJECT_DIR$/source/_posts/前端自检清单.md" />
         <option value="$PROJECT_DIR$/source/_posts/一些句子.md" />
-        <option value="$PROJECT_DIR$/source/_posts/书单.md" />
         <option value="$PROJECT_DIR$/source/_posts/动漫.md" />
-        <option value="$PROJECT_DIR$/source/_posts/React-Hooks-全局状态管理.md" />
         <option value="$PROJECT_DIR$/source/_posts/仿国外老哥粒子特效.md" />
+        <option value="$PROJECT_DIR$/source/_posts/有趣的知识来者不拒.md" />
+        <option value="$PROJECT_DIR$/source/_posts/跨时代游戏策划.md" />
+        <option value="$PROJECT_DIR$/source/_posts/后端学习笔记.md" />
+        <option value="$PROJECT_DIR$/source/_posts/React-Hooks-全局状态管理.md" />
+        <option value="$PROJECT_DIR$/source/_posts/书单.md" />
         <option value="$PROJECT_DIR$/source/_posts/前端笔记.md" />
       </list>
     </option>
@@ -395,7 +389,7 @@
       <path value="$PROJECT_DIR$/public/live2dw/assets/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="777" />
@@ -429,6 +423,20 @@
             <path>
               <item name="liuxiayang.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="liuxiayang.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+              <item name="前端笔记" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="liuxiayang.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="liuxiayang.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+              <item name="忍不了现在的推送算法了" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="liuxiayang.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="liuxiayang.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="themes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -440,7 +448,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
-    <property name="SearchEverywhereHistoryKey" value="icon_wechat.png&#9;FILE&#9;file:///Users/yahto/liuxiayang.github.io/public/img/icon_wechat.png&#10;icon_wechat&#9;FILE&#9;file:///Users/yahto/liuxiayang.github.io/source/img/icon_wechat.png" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/yahto/liuxiayang.github.io/source/_posts/书单.md&#10;icon_wechat.png&#9;FILE&#9;file:///Users/yahto/liuxiayang.github.io/public/img/icon_wechat.png&#10;icon_wechat&#9;FILE&#9;file:///Users/yahto/liuxiayang.github.io/source/img/icon_wechat.png" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -450,17 +458,18 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.TypeScript" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/source/_posts/前端笔记" />
+      <recent name="$PROJECT_DIR$/source/_posts/CSS3学习笔记" />
+      <recent name="$PROJECT_DIR$/source/_posts/有趣的Web-3D" />
+      <recent name="$PROJECT_DIR$/source/_posts/Web-3D-分享" />
+      <recent name="$PROJECT_DIR$/source/_posts" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/source/img/in-article" />
       <recent name="$PROJECT_DIR$/source" />
       <recent name="$PROJECT_DIR$/source/img/header_img" />
       <recent name="$PROJECT_DIR$/live2d_models" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/source/_posts/有趣的Web-3D" />
-      <recent name="$PROJECT_DIR$/source/_posts/Web-3D-分享" />
-      <recent name="$PROJECT_DIR$/source/_posts" />
-      <recent name="$PROJECT_DIR$/source/img" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -516,11 +525,14 @@
       <workItem from="1592361816476" duration="1169000" />
       <workItem from="1592534062714" duration="1585000" />
       <workItem from="1593312172379" duration="4231000" />
+      <workItem from="1594203209958" duration="9585000" />
+      <workItem from="1595388555524" duration="12423000" />
+      <workItem from="1597216138810" duration="5943000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="375813000" />
+    <option name="totallyTimeSpent" value="403764000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -532,7 +544,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="777" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="777" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17791899" />
@@ -583,15 +595,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/source/_posts/有趣的Web-3D/three-do.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/有趣的Web-3D/PerspectiveCamera1.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/有趣的Web-3D/OrthographicCamera1.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/_posts/有趣的Web-3D/mesh.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -645,13 +648,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/source/img/article/huweihuang_blog.png" />
     <entry file="file://$PROJECT_DIR$/source/img/article/tag.png" />
-    <entry file="file://$PROJECT_DIR$/source/_posts/跨时代游戏策划.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/404.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -752,31 +748,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/书单.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2535">
-          <caret line="169" column="16" selection-start-line="169" selection-start-column="16" selection-end-line="169" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/_posts/一些句子.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1920">
           <caret line="128" column="53" selection-start-line="128" selection-start-column="53" selection-end-line="128" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/huweihuang/layout/index.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="6" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/huweihuang/layout/layout.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
         </state>
       </provider>
     </entry>
@@ -787,24 +762,56 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/huweihuang/source/js/hux-blog.js">
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="451">
-          <caret line="44" column="27" selection-start-line="44" selection-start-column="24" selection-end-line="44" selection-end-column="27" />
+        <state relative-caret-position="300">
+          <caret line="20" column="37" lean-forward="true" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/有趣的Web-3D.md">
+    <entry file="file://$PROJECT_DIR$/source/_posts/JS学习笔记.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        <state relative-caret-position="241">
+          <caret line="209" column="20" selection-start-line="209" selection-start-column="20" selection-end-line="209" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/跨时代游戏策划.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="51" column="8" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/前端笔记/111" />
+    <entry file="file://$PROJECT_DIR$/source/_posts/忍不了现在的推送算法了.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="28" selection-start-line="12" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/有趣的知识来者不拒.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/后端学习笔记.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/_posts/React-Hooks-全局状态管理.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        <state relative-caret-position="615">
+          <caret line="41" column="11" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="11" />
         </state>
       </provider>
     </entry>
@@ -815,36 +822,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
+    <entry file="file://$PROJECT_DIR$/source/_posts/有趣的Web-3D.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="37" lean-forward="true" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+        <state relative-caret-position="60">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/huweihuang/layout/layout.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/huweihuang/source/js/hux-blog.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="44" column="27" selection-start-line="44" selection-start-column="24" selection-end-line="44" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/huweihuang/layout/index.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="6" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/书单.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="61" column="4" lean-forward="true" selection-start-line="61" selection-start-column="4" selection-end-line="61" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/_posts/前端笔记.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="100" column="18" selection-start-line="100" selection-start-column="17" selection-end-line="100" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/JS学习笔记.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-480" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/后端学习笔记.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="209" column="20" lean-forward="true" selection-start-line="209" selection-start-column="20" selection-end-line="209" selection-end-column="20" />
+        <state relative-caret-position="3401">
+          <caret line="278" column="13" selection-start-line="278" selection-start-column="13" selection-end-line="278" selection-end-column="13" />
         </state>
       </provider>
     </entry>
